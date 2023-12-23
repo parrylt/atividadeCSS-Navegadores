@@ -1,5 +1,5 @@
 # atividadeCSS-Navegadores
-mais uma atividade de CSS feita em aula para aprender CSS com um site sobre navegadores e linguagens.
+mais uma atividade de CSS feita em aula para aprender CSS com um site sobre navegadores e linguagens. Primeiro semestre de Web da Etec de Guarulhos.
 <br><br>
 <div align="center">
   <h3>Página Inicial. Um css bem simples</h3>
